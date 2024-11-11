@@ -1,0 +1,12 @@
+C:\Users\Filip\Desktop\Cet broj 3\Biblioteka\bin\Debug\Biblioteka.dll
+C:\Users\Filip\Desktop\Cet broj 3\Biblioteka\bin\Debug\Biblioteka.pdb
+C:\Users\Filip\Desktop\Cet broj 3\Biblioteka\obj\Debug\Biblioteka.csproj.AssemblyReference.cache
+C:\Users\Filip\Desktop\Cet broj 3\Biblioteka\obj\Debug\Biblioteka.csproj.CoreCompileInputs.cache
+C:\Users\Filip\Desktop\Cet broj 3\Biblioteka\obj\Debug\Biblioteka.dll
+C:\Users\Filip\Desktop\Cet broj 3\Biblioteka\obj\Debug\Biblioteka.pdb
+C:\Users\sasha\Downloads\Cet broj 3\Cet broj 3\Biblioteka\bin\Debug\Biblioteka.dll
+C:\Users\sasha\Downloads\Cet broj 3\Cet broj 3\Biblioteka\bin\Debug\Biblioteka.pdb
+C:\Users\sasha\Downloads\Cet broj 3\Cet broj 3\Biblioteka\obj\Debug\Biblioteka.csproj.AssemblyReference.cache
+C:\Users\sasha\Downloads\Cet broj 3\Cet broj 3\Biblioteka\obj\Debug\Biblioteka.csproj.CoreCompileInputs.cache
+C:\Users\sasha\Downloads\Cet broj 3\Cet broj 3\Biblioteka\obj\Debug\Biblioteka.dll
+C:\Users\sasha\Downloads\Cet broj 3\Cet broj 3\Biblioteka\obj\Debug\Biblioteka.pdb
